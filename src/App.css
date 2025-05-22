@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+body{
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 20px;
+}
