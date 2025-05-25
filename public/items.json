@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Spicy Chicken Stir Fry",
+    "image_url": "https://i.im.ge/2025/05/23/vzoWZW.stir-fry-chicken-sweet-peppers-green-beans.jpeg",
+    "short_description": "A quick and spicy chicken stir-fry packed with vegetables and flavor.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "1 tbsp chili paste",
+      "100 g bell pepper",
+      "2 cloves garlic"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Creamy Mushroom Pasta",
+    "image_url": "https://i.im.ge/2025/05/23/vzoKX0.vegetarian-dish-with-tagliatelle-mushrooms.jpeg",
+    "short_description": "A creamy and rich pasta dish with garlic and mushrooms.",
+    "ingredients": [
+      "400 g pasta",
+      "200 g mushroom",
+      "100 ml heavy cream",
+      "2 cloves garlic",
+      "1 tbsp olive oil"
+    ],
+    "preparing_time": "25 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Basil Pesto Chicken",
+    "image_url": "https://example.com/images/basil-chicken.jpg",
+    "short_description": "Grilled chicken topped with fresh basil pesto sauce.",
+    "ingredients": [
+      "500 g chicken breast",
+      "200 g basil leaf",
+      "50 g pine nuts",
+      "3 tbsp olive oil",
+      "50 g parmesan cheese"
+    ],
+    "preparing_time": "35 min",
+    "calories": "390 calories"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Vegetable Fried Rice",
+    "image_url": "https://example.com/images/fried-rice.jpg",
+    "short_description": "Easy and delicious vegetable fried rice with soy sauce.",
+    "ingredients": [
+      "300 g cooked rice",
+      "100 g carrot",
+      "100 g peas",
+      "2 eggs",
+      "3 tbsp soy sauce"
+    ],
+    "preparing_time": "20 min",
+    "calories": "280 calories"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Honey Garlic Shrimp",
+    "image_url": "https://example.com/images/honey-garlic-shrimp.jpg",
+    "short_description": "Sweet and savory shrimp with a honey garlic glaze.",
+    "ingredients": [
+      "400 g shrimp",
+      "3 tbsp honey",
+      "2 cloves garlic",
+      "1 tbsp soy sauce",
+      "1 tbsp lemon juice"
+    ],
+    "preparing_time": "15 min",
+    "calories": "250 calories"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Tomato Basil Soup",
+    "image_url": "https://example.com/images/tomato-soup.jpg",
+    "short_description": "Classic tomato soup with fresh basil and cream.",
+    "ingredients": [
+      "500 g tomato",
+      "200 g basil leaf",
+      "1 onion",
+      "100 ml cream",
+      "2 cloves garlic"
+    ],
+    "preparing_time": "40 min",
+    "calories": "300 calories"
+  }
+]

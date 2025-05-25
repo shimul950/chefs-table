@@ -1,9 +1,9 @@
 
 const Navbar = () => {
     return (
-        <div class="navbar bg-base-100 shadow-sm flex justify-between rounded-2xl">
-            <div class="">
-                <a class="btn btn-ghost text-2xl">Recipies Calories</a>
+        <div className="navbar bg-base-100 shadow-sm flex justify-between rounded-2xl">
+            <div className="">
+                <a className="btn btn-ghost text-2xl">Recipies Calories</a>
             </div>
             <ul className="flex gap-6">
                 <li>Home</li>
@@ -11,23 +11,23 @@ const Navbar = () => {
                 <li>About</li>
                 <li>Search</li>
             </ul>
-            <div class="flex gap-2">
-                <input type="text" placeholder="Search" class="input input-bordered w-24 md:w-auto rounded-2xl" />
-                <div class="dropdown dropdown-end">
-                    <div tabindex="0" role="button" class="btn btn-ghost btn-circle avatar">
-                        <div class="w-10 rounded-full">
+            <div className="flex gap-2">
+                <input type="text" placeholder="Search" className="input input-bordered w-24 md:w-auto rounded-2xl" />
+                <div className="dropdown dropdown-end">
+                    <div tabIndex="0" role="button" className="btn btn-ghost btn-circle avatar">
+                        <div className="w-10 rounded-full">
                             <img
                                 alt="Tailwind CSS Navbar component"
                                 src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" />
                         </div>
                     </div>
                     <ul
-                        tabindex="0"
-                        class="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
+                        tabIndex="0"
+                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
                         <li>
-                            <a class="justify-between">
+                            <a className="justify-between">
                                 Profile
-                                <span class="badge">New</span>
+                                <span className="badge">New</span>
                             </a>
                         </li>
                         <li><a>Settings</a></li>
