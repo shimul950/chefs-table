@@ -32,7 +32,7 @@
   {
     "recipe_id": 3,
     "recipe_name": "Basil Pesto Chicken",
-    "image_url": "https://example.com/images/basil-chicken.jpg",
+    "image_url": "https://www.aimeemars.com/wp-content/uploads/2018/04/Creamy-Basil-Pesto-Chicken-featured-2.jpg",
     "short_description": "Grilled chicken topped with fresh basil pesto sauce.",
     "ingredients": [
       "500 g chicken breast",
@@ -47,7 +47,7 @@
   {
     "recipe_id": 4,
     "recipe_name": "Vegetable Fried Rice",
-    "image_url": "https://example.com/images/fried-rice.jpg",
+    "image_url": "https://www.carolinescooking.com/wp-content/uploads/2016/01/vegetable-egg-fried-rice-photo-1.jpg",
     "short_description": "Easy and delicious vegetable fried rice with soy sauce.",
     "ingredients": [
       "300 g cooked rice",
@@ -62,7 +62,7 @@
   {
     "recipe_id": 5,
     "recipe_name": "Honey Garlic Shrimp",
-    "image_url": "https://example.com/images/honey-garlic-shrimp.jpg",
+    "image_url": "https://static1.squarespace.com/static/5cdc214025c07d000150b706/5cdc22b124a694ac245d4bd3/60802a0908a0311cb008b97a/1626140845201/Honey+Shrimp+with+Thai+Basil.jpg?format=1500w",
     "short_description": "Sweet and savory shrimp with a honey garlic glaze.",
     "ingredients": [
       "400 g shrimp",
@@ -77,7 +77,7 @@
   {
     "recipe_id": 6,
     "recipe_name": "Tomato Basil Soup",
-    "image_url": "https://example.com/images/tomato-soup.jpg",
+    "image_url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipes%2F2019-08-Recipe-Best-Tomato-Basil-Soup%2FTomato_Basil_Soup_067",
     "short_description": "Classic tomato soup with fresh basil and cream.",
     "ingredients": [
       "500 g tomato",
