@@ -14,7 +14,7 @@ const Recipe = ({recipe , handleCookTable}) => {
                     <h3 className="text-xl font-semibold text-gray-700">Ingredients : {ingredients.length}</h3>
                     <ul className="text-gray-400">
                         {
-                            ingredients.map(ingredient => <li>{ingredient}</li>)
+                            ingredients.map((ingredient,idx) => <li key={idx}>{ingredient}</li>)
                         }
                     </ul>
 

@@ -15,9 +15,20 @@ function App() {
         toast.error('Item already added !')
         return data;
       }
-      toast.success('Item added')
-      return [...cookTable, recipe];
+      else {
+        toast.success('Item added')
+        return [...cookTable, recipe];
+      }
     })
+  }
+
+  // handle preparing btn
+
+  const [preparingItems, setPreparingItems] = useState([])
+  const handleCurrentlyCooking = preparingItem => {
+    const recipeItem = document.getElementById('recipe-item');
+    recipeItem.classList.add('hidden')
+    setPreparingItems([...preparingItems,preparingItem])
   }
 
   return (
@@ -31,7 +42,11 @@ function App() {
       </div>
       <div className='flex'>
         <Recipes handleCookTable={handleCookTable}></Recipes>
-        <Sidebar cookTable={cookTable}></Sidebar>
+        <Sidebar
+          cookTable={cookTable}
+          handleCurrentlyCooking={handleCurrentlyCooking}
+          preparingItems={preparingItems}
+        ></Sidebar>
 
       </div>
     </>
